@@ -1,12 +1,6 @@
 <template>
   <div>
     <home-welcome />
-    <home-why />
-    <home-companies />
-    <home-modes />
-    <!-- <home-targets/>
-    <home-features/> -->
-    <home-sponsors />
   </div>
 </template>
 
